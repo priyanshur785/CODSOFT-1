@@ -1,4 +1,8 @@
 #Titanic Survival Prediction Internship Project
+
+
+
+
 Introduction
 Briefly introduce the project and its context. Mention that this project was completed as part of your internship at Codsoft.
 
